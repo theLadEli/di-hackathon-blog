@@ -1,0 +1,11 @@
+{
+  "name": "di-hackathon-blog",
+  "version": "1.0.0",
+  "description": "A full stack application developed by Eli & Gigi for Hackathon 2024. The application is a blog, frontend built using HTML, CSS and JS, it uses NodeJS to send/receive articles.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
